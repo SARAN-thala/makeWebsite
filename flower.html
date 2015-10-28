@@ -10,11 +10,21 @@
 	<div id="img"><img src="freshorigins.jpg"></div	>
 		<div id="nav">
 			<ul>
-				<li><a href="www.google.com">Abeliophyllum</a></li>
-				<li><a href="www.linkedin.com">Ageratum</a></li>
-				<img id="waterpot" src="waterjar.gif">
+				<li><a href="Abeliophyllum.html">Abeliophyllum</a></li>
+				<li><a href="Ageratum.html">Ageratum</a></li>
+				<img id="waterpot" src="waterjar.gif" onclick="disappear()"/>
+				<script type="text/javascript">
+				function disappear(){
+					document.getElementById("waterpot").style.display='none';
+					setTimeout('appear()',500)
+				}
+				function appear(){
+					document.getElementById("waterpot").style.display='inline';
+				}
+				</script>
+
 			</ul>
-			<a href="www.yahoo.com">Guest Book</a>
+			<a href="guest_book.html">Guest Book</a>
 		</div>
 </body>
 </html>
