@@ -5,7 +5,7 @@ To make a Flower Catalog Website
 	Choose the title name "Flower catalog".
 	Put the flower image on the full web page.
 	To link the pages &  guest book page.
-	Flower pot blinking for 1 sec,
+	Flower pot blinking for 1sec.
 
 2)create additional pages:
 	images on left side.
