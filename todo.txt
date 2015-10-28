@@ -1,0 +1,11 @@
+To make a Flower Catalog Website
+-----------------------------------
+1) create home page:
+	Create a home page layout.
+	Choose the title name "Flower catalog".
+	Put the flower image on the full web page.
+	To link the pages &  guest book page.
+
+2)create additional pages:
+	images on left side.
+
