@@ -19,3 +19,7 @@ h1{
 	width: 100px;
 	float: left;
 }
+body{
+	padding-left: 10px;
+	padding-right: 10px;
+}
